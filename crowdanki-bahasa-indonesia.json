@@ -16,6 +16,26 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Semangat",
+                        "Have spirit"
+                    ],
+                    "guid": "f|-q.oWZ|V",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dia kuat.",
+                        "They is strong."
+                    ],
+                    "guid": "z<+V-+&Y?&",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Saya Evan.",
                         "I am Evan."
                     ],
@@ -136,8 +156,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Ia menulis surat.",
-                        "He wrote a letter."
+                        "Ia menulis surel.",
+                        "He wrote an email."
                     ],
                     "guid": "C]r4T,8J8K",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
@@ -146,8 +166,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Ia besar.",
-                        "It's big."
+                        "Ia kecil/besar.",
+                        "It is small/big."
                     ],
                     "guid": "Ad#$bU[040",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
@@ -291,6 +311,26 @@
                     ],
                     "guid": "I,J#o8gwZJ",
                     "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Saya mau bayar.",
+                        "I want to pay."
+                    ],
+                    "guid": "rNT]&1uX]k",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dia minta kopi susu.",
+                        "They ask for milk coffee."
+                    ],
+                    "guid": "yqV2=U&WqC",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
                 }
             ]
@@ -570,6 +610,56 @@
                     "guid": "f7t<X//oAb",
                     "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Pisang",
+                        "Banana"
+                    ],
+                    "guid": "lTXWW!-T;&",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gula - Garam",
+                        "Sugar - Salt"
+                    ],
+                    "guid": "I~Vd!a1[T0",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cokelat",
+                        "Chocolate"
+                    ],
+                    "guid": "LFy+.+bn6h",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Garam - Merica",
+                        "Salt - Pepper"
+                    ],
+                    "guid": "J0fJ[WaES)",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Teh panas - Es teh",
+                        "Hot tea - Iced tea"
+                    ],
+                    "guid": "COc[IJ~4[n",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
                 }
             ]
         }
@@ -631,6 +721,76 @@
     "media_files": [],
     "name": "bahasa-indonesia-1",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
@@ -703,76 +863,6 @@
             ],
             "type": 0,
             "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic (and reversed card)",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ],
-                [
-                    1,
-                    "any",
-                    [
-                        1
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                },
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 2",
-                    "ord": 1,
-                    "qfmt": "{{Back}}"
-                }
-            ],
-            "type": 0
         }
     ],
     "notes": []
