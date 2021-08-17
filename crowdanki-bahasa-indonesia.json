@@ -332,6 +332,106 @@
                     "guid": "yqV2=U&WqC",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Minuman ini masam.",
+                        "This drink is sour."
+                    ],
+                    "guid": "ydc::@azbt",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Saya ada di dapur.",
+                        "I am in the kitchen."
+                    ],
+                    "guid": "QcLKNkvnm%",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Di sini - Di situ/sana",
+                        "Here - There"
+                    ],
+                    "guid": "MUx?e0uW[:",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dari mana kamu?",
+                        "Where are you from?"
+                    ],
+                    "guid": "x5fa[u$ZeJ",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nama restoran ini Jollibee.",
+                        "The name of this restaurant is Jollibee."
+                    ],
+                    "guid": "o!hFW^hMRC",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Umur(ku) dua puluh tahun.",
+                        "I am twenty years old."
+                    ],
+                    "guid": "b%_V>NI+C5",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ini milik/punya saya.",
+                        "This is mine."
+                    ],
+                    "guid": "J}!*:JC:D*",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ini milik(ku).",
+                        "This is mine."
+                    ],
+                    "guid": "n`(l+ZEvw1",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Itu punya/milik Berlian.",
+                        "That belongs to Berlian."
+                    ],
+                    "guid": "bh+b@W1@X9",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ini buku(ku) / surat(ku).",
+                        "This is my book / letter."
+                    ],
+                    "guid": "sjL&lP<m8!",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
                 }
             ]
         },
@@ -706,9 +806,9 @@
                 "bury": false,
                 "ease4": 1.3,
                 "hardFactor": 1.2,
-                "ivlFct": 1.0,
+                "ivlFct": 1.1,
                 "maxIvl": 36500,
-                "perDay": 150
+                "perDay": 100
             },
             "reviewOrder": 0,
             "timer": 0
