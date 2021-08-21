@@ -432,6 +432,96 @@
                     "guid": "sjL&lP<m8!",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Saya setuju.",
+                        "I agree."
+                    ],
+                    "guid": "zn0E}6Js-O",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dia muncul!",
+                        "They appeared!"
+                    ],
+                    "guid": "f=d$24fE)S",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dia tidak setuju.",
+                        "They do not agree."
+                    ],
+                    "guid": "C.cS-7Sv7B",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Saya tidak bisa.",
+                        "I can not."
+                    ],
+                    "guid": "ENw}-h-q28",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dia tidak ingat saya.",
+                        "They do not remember me."
+                    ],
+                    "guid": "djF3RKc*e6",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aku selasai makan.",
+                        "I finished eating."
+                    ],
+                    "guid": "QB(E),v{s4",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kamu lupa.",
+                        "You forgot."
+                    ],
+                    "guid": "f{$U:kR4tv",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dia kembali.",
+                        "They return."
+                    ],
+                    "guid": "qnH~Gnut^H",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aku mulai bersenam.",
+                        "I started exercising."
+                    ],
+                    "guid": "pk}po^j&gC",
+                    "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
+                    "tags": []
                 }
             ]
         },
@@ -797,7 +887,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 15
+                "perDay": 10
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
@@ -808,7 +898,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.1,
                 "maxIvl": 36500,
-                "perDay": 100
+                "perDay": 50
             },
             "reviewOrder": 0,
             "timer": 0
