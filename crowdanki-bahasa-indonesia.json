@@ -216,16 +216,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Selamat sore.",
-                        "Good afternoon."
-                    ],
-                    "guid": "nX1OOvu`|W",
-                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Sampai jumpa lagi.",
                         "See you again."
                     ],
@@ -426,16 +416,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Ini buku(ku) / surat(ku).",
-                        "This is my book / letter."
-                    ],
-                    "guid": "sjL&lP<m8!",
-                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Saya setuju.",
                         "I agree."
                     ],
@@ -522,6 +502,46 @@
                     "guid": "pk}po^j&gC",
                     "note_model_uuid": "d6f63403-9280-11ea-94ec-e0b1b5738f41",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dia mulai makan.",
+                        "They started eating."
+                    ],
+                    "guid": "xA.64zF`))",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mereka pesan roti dan es teh.",
+                        "They ordered bread and ice tea."
+                    ],
+                    "guid": "wD|6:v8k2_",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Aku sarapan.",
+                        "I am having breakfast."
+                    ],
+                    "guid": "o8Os(0Hs3[",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tapi?",
+                        "But?"
+                    ],
+                    "guid": "HY{J.{Hd;0",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
                 }
             ]
         },
@@ -604,6 +624,66 @@
                         "They / It (Singular third-person pronoun)<br>Living and non-living things"
                     ],
                     "guid": "G_OF+QSc%e",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ini buku(ku) / surat(ku).",
+                        "This is my book / letter."
+                    ],
+                    "guid": "sjL&lP<m8!",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Surat(mu)",
+                        "Your letter"
+                    ],
+                    "guid": "EHvALl4g/Q",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Umur(ku)",
+                        "My age"
+                    ],
+                    "guid": "VqM~^5x8f",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ini milik(ku)",
+                        "This is mine"
+                    ],
+                    "guid": "I><OwKSkCO",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "They has ten books.",
+                        "Buku(nya) sepuluh."
+                    ],
+                    "guid": "DR_[ESMf#=",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Makanan(mu)",
+                        "Your food"
+                    ],
+                    "guid": "ywp_V_cFOX",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
                 }
@@ -848,6 +928,56 @@
                         "Hot tea - Iced tea"
                     ],
                     "guid": "COc[IJ~4[n",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dagin ayam",
+                        "Chicken meat"
+                    ],
+                    "guid": "h*}S&Is!]d",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tas",
+                        "Bag"
+                    ],
+                    "guid": "cHBdK<:hjK",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sepatu",
+                        "Shoes"
+                    ],
+                    "guid": "qyY(z~y;6C",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Celana",
+                        "Pants"
+                    ],
+                    "guid": "rOlH6/T%?C",
+                    "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kantong celana",
+                        "Pant pockets"
+                    ],
+                    "guid": "JJ,PXN_R%p",
                     "note_model_uuid": "34b4355e-bb94-11eb-9221-acde48001122",
                     "tags": []
                 }
